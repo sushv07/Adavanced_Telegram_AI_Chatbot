@@ -49,7 +49,7 @@ This isn’t just another chatbot. It’s a fully modular, **AI-powered voice ag
 
 ## 📂 Project Structure
 
-```bash
+
 📁 Project Structure:
 ├── Advanced_Telegram_Chatbot
 │   ├── AdvancedTelegramChatbot.json
@@ -89,7 +89,6 @@ SERPAPI_KEY=your_serpapi_key
 ## 📌 Roadmap
 
 - [ ] Integrate **RAG (Retrieval-Augmented Generation)**  
-- [ ] Add **voice output via ElevenLabs**  
 - [ ] Expand **personality profiles** (funny, formal, sarcastic, etc.)  
 - [ ] Add **multi-platform support** (Slack, WhatsApp)  
 - [ ] Build **Docker deployment** setup  
