@@ -102,7 +102,7 @@ If you're working on **voice agents**, **agentic AI**, or **automation**, feel f
 
 **Created by:**  
 👩🏽‍💻 Sushmitha Vijayakumar  
-🔗 [LinkedIn](https://www.linkedin.com/in/sushmitha-vijayakumar/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sushmitha-vijayakumar-9b7139208)  
 📝 [Medium Blog – SVEO](https://sveo-ceo.medium.com)
 
 ---
