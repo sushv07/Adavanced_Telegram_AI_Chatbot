@@ -77,11 +77,12 @@ Advanced_Telegram_Chatbot
    - Import all workflows under `Advanced_Telegram_Chatbot/`, including subfolders
 4. **Configure API credentials as environment variables:**
 
+```bash
 OPENAI_API_KEY=your_openai_key
 PINECONE_API_KEY=your_pinecone_key
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token
 SERPAPI_KEY=your_serpapi_key
-
+```
 
 5. **Deploy and start your n8n instance**
 6. **Send a voice command via Telegram and watch the magic happen!** 🎙️✨
