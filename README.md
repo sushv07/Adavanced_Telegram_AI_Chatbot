@@ -48,6 +48,15 @@ This isn’t just another chatbot. It’s a fully modular, **AI-powered voice ag
 
 ---
 
+### Visual Workflow Diagram:
+
+
+<img width="2128" height="1040" alt="Screenshot 2025-07-25 at 12 17 49 PM" src="https://github.com/user-attachments/assets/ec93dc7d-5d15-4cf6-a044-df9908a74d59" />
+
+
+
+---
+
 ## 📂 Project Structure
 
 ```bash
