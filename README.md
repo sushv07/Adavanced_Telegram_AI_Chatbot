@@ -1,6 +1,6 @@
 # 🎙️ Voice AI Agent ChatBot
 
-An AI-powered voice assistant that automates tasks and talks back with wit, sarcasm, and personality — built entirely on Telegram.
+An AI-powered voice assistant that automates tasks and talks back with wit, sarcasm, and personality - built entirely on Telegram.
 
 ## 📺 Demo Video
 <img width="2730" height="1460" alt="Screenshot 2025-07-22 at 1 15 35 PM" src="https://github.com/user-attachments/assets/30ecd9a5-2e60-478d-b101-4a422af4aceb"/> 
@@ -10,7 +10,7 @@ An AI-powered voice assistant that automates tasks and talks back with wit, sarc
 
 ## 🤖 Overview
 
-This isn’t just another chatbot. It’s a fully modular, **AI-powered voice agent** that listens to spoken commands, performs real-world tasks like sending emails or scheduling meetings, and responds with human-like personality — including humor, sass, and contextual remarks.
+This isn’t just another chatbot. It’s a fully modular, **AI-powered voice agent** that listens to spoken commands, performs real-world tasks like sending emails or scheduling meetings, and responds with human-like personality - including humor, sass, and contextual remarks.
 
 ---
 
