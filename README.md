@@ -36,16 +36,16 @@ This isn’t just another chatbot. It’s a fully modular, **AI-powered voice ag
 ---
 
 ## ⚙️ Tech Stack
-
-| Tool      | Purpose                                   |
-|-----------|-------------------------------------------|
-| [n8n](https://n8n.io/)             | Workflow orchestration (no/low code) |
-| [OpenAI GPT-4o](https://platform.openai.com) | Language understanding, task execution, and humorous replies |
-| [Pinecone](https://www.pinecone.io/)         | Vector DB for contact memory and semantic search |
-| [Telegram Bot API](https://core.telegram.org/bots/api) | Voice command interface |
-| [SerpAPI](https://serpapi.com)     | Web search tool for Google results |
-| Wikipedia & Hacker News APIs       | Additional search tools for context awareness |
-
+|-----------------------------------------------------------------------------------------------------------------------|
+| Tool                                                   | Purpose                                                      |
+|--------------------------------------------------------|--------------------------------------------------------------|
+| [n8n](https://n8n.io/)                                 | Workflow orchestration (no/low code)                         |
+| [OpenAI GPT-4o](https://platform.openai.com)           | Language understanding, task execution, and humorous replies |
+| [Pinecone](https://www.pinecone.io/)                   | Vector DB for contact memory and semantic search             |
+| [Telegram Bot API](https://core.telegram.org/bots/api) | Voice command interface                                      |
+| [SerpAPI](https://serpapi.com)                         | Web search tool for Google results                           |
+| Wikipedia & Hacker News APIs                           | Additional search tools for context awareness                |
+|-----------------------------------------------------------------------------------------------------------------------|
 ---
 
 ## 📂 Project Structure
