@@ -50,20 +50,21 @@ This isn’t just another chatbot. It’s a fully modular, **AI-powered voice ag
 
 ## 📂 Project Structure
 
-
-📁 Project Structure:
-├── Advanced_Telegram_Chatbot
-│   ├── AdvancedTelegramChatbot.json
-│   ├── PineconeDB/
-│   │   ├── Mail_Agent_Pinecone.json
-│   │   ├── Send_Mails_From_Pinecone.json
-│   │   ├── Upload_Mails_To_Pinecone.json
-│   ├── SubWorkflows/
-│       ├── CalendarAgent.json
-│       ├── Contacts_Agent.json
-│       ├── InstaPosts_SubWorkflow.json
-│       ├── Mails_Sub_Workflow.json
-│       ├── telegram_search_sub_workflow.json
+```bash
+Advanced_Telegram_Chatbot
+├── AdvancedTelegramChatbot.json
+│
+├── PineconeDB/
+│   ├── Mail_Agent_Pinecone.json
+│   ├── Send_Mails_From_Pinecone.json
+│   └── Upload_Mails_To_Pinecone.json
+│
+└── SubWorkflows/
+    ├── CalendarAgent.json
+    ├── Contacts_Agent.json
+    ├── InstaPosts_SubWorkflow.json
+    ├── Mails_Sub_Workflow.json
+    └── telegram_search_sub_workflow.json
 
 ---
 
