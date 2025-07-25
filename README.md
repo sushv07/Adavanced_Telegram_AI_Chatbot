@@ -36,7 +36,7 @@ This isn’t just another chatbot. It’s a fully modular, **AI-powered voice ag
 ---
 
 ## ⚙️ Tech Stack
-|-----------------------------------------------------------------------------------------------------------------------|
+
 | Tool                                                   | Purpose                                                      |
 |--------------------------------------------------------|--------------------------------------------------------------|
 | [n8n](https://n8n.io/)                                 | Workflow orchestration (no/low code)                         |
@@ -45,7 +45,7 @@ This isn’t just another chatbot. It’s a fully modular, **AI-powered voice ag
 | [Telegram Bot API](https://core.telegram.org/bots/api) | Voice command interface                                      |
 | [SerpAPI](https://serpapi.com)                         | Web search tool for Google results                           |
 | Wikipedia & Hacker News APIs                           | Additional search tools for context awareness                |
-|-----------------------------------------------------------------------------------------------------------------------|
+
 ---
 
 ## 📂 Project Structure
